@@ -13,6 +13,7 @@ Welcome to the repository for my **Numerical Lab Assignments**. This repository 
 This repository includes practical implementations of numerical techniques such as:
 - Basic operations using NumPy
 - Numerical integration techniques
+- Polynomial regression for curve fitting
 - Basic classification problems using machine learning
 
 Each notebook contains detailed explanations, code, and results from experiments to ensure that concepts are easy to follow and understand.
@@ -66,14 +67,23 @@ To run the notebooks locally:
   - Numerical integration techniques
   - Implementation of Simpson's 1/3 rule to approximate definite integrals
 
+
 ### 3. **Assignment 3: Basic Classification**
 - Objective: Perform a classification task for Wheat Seed Classification.
 - Topics Covered:
   - Understanding datasets
   - Implementing basic classification using machine learning
   - Performance evaluation of the model
+ 
+    
+### 3. **Assignment 4: Polynomial Regression**
+- Objective: Perform polynomial regression for curve fitting.
+- Topics Covered:
+  - Linear, quadratic, and cubic polynomial regression
+  - Implementation of regression without external libraries
+  - Mean Squared Error (MSE) calculations
+  - Visualizing training and test data with regression curves
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code with attribution.
-
 
